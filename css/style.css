@@ -1,0 +1,81 @@
+/*Selector de tag o etiqueta*/
+h1, h2 {
+    font-size: 36px;
+    color: #A1A2A6;
+}
+/*Selector de clase*/
+.fuenteCliente {
+    font-family: 'Roboto', sans-serif;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    border: 1px solid #A1A2A6;
+    border-right-width: 15px;
+    border-bottom-width: 15px;
+}
+
+/*Selector de clase*/
+.SolicitudCliente{
+    font-size: 36px;
+    font-family: 'Open Sans', sans-serif;
+    color: #A1A2A6;
+}
+
+/*Selector de id*/
+#metodoID{
+    font-family: 'Roboto', sans-serif;
+    color: #A1A2A6;
+    font-size: 30px;
+}
+
+.bg-green {
+    background-color: #1e7e34 !important;
+}
+
+.btn-RojoTest{
+        color: #fff;
+        background-color: #A1A2A6;
+        border-color: #A1A2A6;
+        border-radius: 5px;
+    }
+
+    p {
+        font-family: 'Open Sans';
+        font-size: 14px;
+        color: #565759;
+        line-height: 18px;
+        margin-bottom: 20px;
+        text-align: justify;
+        }
+    .bg-footer{
+        background-color: #477b53
+    }
+    .bg-footerr {
+        background-color: #434845;
+        border-left-color: #34a32a;
+}
+    .Contacto{
+        font-size: 18px;
+        border-left: 3px solid #111011;
+        font-weight: 100;
+        line-height: 24px;
+        color: #fff;
+        margin-bottom: 30px;
+        padding-left: 20px;
+    }
+
+    a {
+        color: #050505;
+        text-decoration: none;
+        background-color: transparent;
+    }
+
+    img {
+        height: auto;
+        max-width: 100%;
+        vertical-align: middle;
+        align-content: flex-end;
+    }
+
+    
